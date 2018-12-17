@@ -1,6 +1,6 @@
 # SimpleAuction-smart-contract
 This is a Simple Auction Smart Contract that can be used in any auction sale for transparency,security and accountability
-It is useful for the government or any business that decides to go the auction sale wa
+It is useful for the government or any business that decides to go the auction sale way.
 The contract contains the addresses of the beneficiary(participants that didnt win the auction) and the address of the highest bidder(winner)
 and the unsigned integers of the highest bid and the unix timestamp that the auction will end.
 There is also a mapping function that allows the beneficiaries that didnt win to be able to withdraw back their money,the time when the 
